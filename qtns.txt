@@ -1,0 +1,14 @@
+identifiers in python
+
+An identifier is a user-defined name to represent a variable, a function, a class, a module, 
+or any other object,The Python identifier is made with a combination of lowercase or uppercase letters, 
+digits or an underscore.
+
+
+Literals are a type of notation used in source code to represent a fixed value. 
+They can also be defined as raw values or data that are given in variables or constants.
+Numeric Literals
+Boolean Literals
+String literals
+Special literals
+Escape characters
